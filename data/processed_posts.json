@@ -1,0 +1,686 @@
+[
+    {
+        "text": "🔎 Developed a robust Python application to process and analyze large data sets using SQL databases and PostgreSQL. Integrated data visualization tools for better insight. #PythonDevelopment #PostgreSQL #DataScience #SoftwareEngineering",
+        "engagement": 220,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Python Development",
+            "PostgreSQL",
+            "Data Science",
+            "Software Engineering"
+        ]
+    },
+    {
+        "text": "🌟 Built a microservice architecture for a scalable real-time web application using Django Channels and WebSockets. Integrated with MongoDB for dynamic data storage. #MicroservicesArchitecture #DjangoChannels #WebDevelopment #MongoDB",
+        "engagement": 205,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Microservices Architecture",
+            "Django Channels",
+            "Web Development",
+            "MongoDB"
+        ]
+    },
+    {
+        "text": "🚀 Launched an automated data collection script using Python, Selenium, and BeautifulSoup. Extracted valuable marketing data from top social media channels. #WebScraping #PythonDevelopment #AutomationScripting #DataScience",
+        "engagement": 190,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Web Scraping",
+            "Python Development",
+            "Automation Scripting",
+            "Data Science"
+        ]
+    },
+    {
+        "text": "🛡️ Enhanced a SaaS platform with multi-layered security protocols and OAuth2 integration using Django. Conducted code optimization for performance tuning. #DjangoDevelopment #Security #CodeOptimization #SaaSDevelopment",
+        "engagement": 195,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Django Development",
+            "Security",
+            "Code Optimization",
+            "SaaS Development"
+        ]
+    },
+    {
+        "text": "📈 Optimized real-time data analytics pipelines using AWS, integrating Lambda functions and S3 for data handling. Reduced processing time by 30%. #AWS #ServerlessArchitectures #DataScience #RealTimeWebApps",
+        "engagement": 230,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "AWS Solutions",
+            "Serverless Architectures",
+            "Data Science",
+            "Real-Time Web Apps"
+        ]
+    },
+    {
+        "text": "💡 Developed a scalable AI-powered web app using Django and TensorFlow. Included a real-time chat interface with WebSockets. #AI #DjangoDevelopment #TensorFlow #WebDevelopment",
+        "engagement": 210,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "AI Development",
+            "Django Development",
+            "TensorFlow",
+            "Web Development"
+        ]
+    },
+    {
+        "text": "🚧 Completed a CI/CD pipeline setup for a fintech application using GitHub Actions and Docker. Integrated unit tests to ensure code reliability. #DevOps #Docker #CI/CD #Fintech",
+        "engagement": 220,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "DevOps Automation",
+            "Docker",
+            "CI/CD Pipelines",
+            "Fintech"
+        ]
+    },
+    {
+        "text": "✨ Completed an NLP model training pipeline for customer feedback analysis using Python and spaCy. Integrated it with Django for seamless backend services. #NLP #PythonDevelopment #DjangoDevelopment #MachineLearning",
+        "engagement": 205,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Natural Language Processing (NLP)",
+            "Python Development",
+            "Django Development",
+            "Machine Learning"
+        ]
+    },
+    {
+        "text": "🔗 Integrated RESTful APIs with Django and ReactJS for a custom web application. Enhanced user experience with interactive design elements. #APIDevelopment #Django #ReactJS #WebDevelopment",
+        "engagement": 195,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "API Development",
+            "Django Development",
+            "ReactJS",
+            "Web Development"
+        ]
+    },
+    {
+        "text": "📊 Built an AI-powered chatbot that utilizes GPT-4 for seamless customer support, integrating it with vector databases for context-aware interactions. #AI #ChatbotDevelopment #GPT4 #VectorDatabases",
+        "engagement": 250,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "AI Development",
+            "Chatbot Development",
+            "GPT-4",
+            "Vector Databases"
+        ]
+    },
+    {
+        "text": "🌐 Provided Python consulting for an IoT project to develop an application for data collection and real-time dashboard visualization. #PythonConsulting #IoTIntegration #DataVisualization #RealTimeWebApps",
+        "engagement": 220,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Python Consulting",
+            "IoT Integration",
+            "Data Visualization",
+            "Real-Time Web Apps"
+        ]
+    },
+    {
+        "text": "⚙️ Completed a database migration from SQL to PostgreSQL for a legacy application. Ensured minimal downtime and data consistency. #DatabaseManagement #SQL #PostgreSQL #SoftwareEngineering",
+        "engagement": 180,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Database Management",
+            "SQL Databases",
+            "PostgreSQL",
+            "Software Engineering"
+        ]
+    },
+    {
+        "text": "🛠 Worked on building an API for a blockchain project that uses smart contracts and handles cryptocurrency transactions. #BlockchainDevelopment #APIDevelopment #Cryptocurrency #PythonDevelopment",
+        "engagement": 210,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Blockchain Development",
+            "API Development",
+            "Cryptocurrency",
+            "Python Development"
+        ]
+    },
+    {
+        "text": "💻 Integrated cloud services with Django using AWS Lambda and S3 for scalable data storage and processing. #CloudServices #AWS #DjangoDevelopment #SoftwareEngineering",
+        "engagement": 250,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Cloud Services",
+            "AWS Solutions",
+            "Django Development",
+            "Software Engineering"
+        ]
+    },
+    {
+        "text": "✨ Completed test-driven development for a Django-based SaaS application. Used Git for version control and collaboration. #TDD #DjangoDevelopment #VersionControl #SaaSDevelopment",
+        "engagement": 195,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Test-Driven Development (TDD)",
+            "Django Development",
+            "Version Control (Git)",
+            "SaaS Development"
+        ]
+    },
+    {
+        "text": "🌱 Led the development of a full-stack application using Python, Django, and ReactJS, implementing Agile development practices for team collaboration. #FullStackDevelopment #PythonDevelopment #ReactJS #AgileDevelopment",
+        "engagement": 225,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Full-Stack Development",
+            "Python Development",
+            "ReactJS",
+            "Agile Development"
+        ]
+    },
+    {
+        "text": "🔧 Developed a custom RESTful service in Django for an e-commerce platform, optimized for performance and scalability. #DjangoDevelopment #RESTfulServices #E-commerce #PerformanceTuning",
+        "engagement": 180,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Django Development",
+            "RESTful Services",
+            "E-commerce Development",
+            "Performance Tuning"
+        ]
+    },
+    {
+        "text": "🏆 Successfully deployed a serverless data pipeline using AWS services for a data science application. #ServerlessArchitectures #AWS #DataScience #Deployment",
+        "engagement": 200,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Serverless Architectures",
+            "AWS Solutions",
+            "Data Science",
+            "Deployment"
+        ]
+    },
+    {
+        "text": "📢 Offering technical advisory for Python developers looking to adopt cloud-native architectures and scalable backend systems. #TechnicalAdvisory #PythonDevelopment #CloudServices #ScalableArchitecture",
+        "engagement": 245,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Technical Advisory",
+            "Python Development",
+            "Cloud Services",
+            "Scalable Architecture"
+        ]
+    },
+    {
+        "text": "💻 Developed a Python script for automating repetitive web data collection tasks, leveraging BeautifulSoup and Selenium for seamless data extraction. #WebScraping #AutomationScripting #PythonDevelopment #DataScience",
+        "engagement": 210,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Web Scraping",
+            "Automation Scripting",
+            "Python Development",
+            "Data Science"
+        ]
+    },
+    {
+        "text": "🔧 Enhanced a Django-based web application by implementing GraphQL for efficient data queries and improved client-side performance. #GraphQL #DjangoDevelopment #WebDevelopment #PerformanceTuning",
+        "engagement": 205,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "GraphQL",
+            "Django Development",
+            "Web Development",
+            "Performance Tuning"
+        ]
+    },
+    {
+        "text": "📈 Integrated machine learning models into a Python-driven analytics dashboard using scikit-learn for predictive analysis and insights. #MachineLearning #PythonDevelopment #DataScience #WebDevelopment",
+        "engagement": 220,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Machine Learning",
+            "Python Development",
+            "Data Science",
+            "Web Development"
+        ]
+    },
+    {
+        "text": "🚀 Implemented continuous deployment pipelines using GitHub Actions and Docker for a Django-based SaaS project, ensuring quick and reliable updates. #DevOps #CI/CD #Docker #DjangoDevelopment",
+        "engagement": 225,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "DevOps Automation",
+            "CI/CD Pipelines",
+            "Docker",
+            "Django Development"
+        ]
+    },
+    {
+        "text": "🔄 Created an API service for integrating payment gateways into a Django project, ensuring secure transactions and reliable service. #APIDevelopment #DjangoDevelopment #E-commerce #SoftwareEngineering",
+        "engagement": 200,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "API Development",
+            "Django Development",
+            "E-commerce Development",
+            "Software Engineering"
+        ]
+    },
+    {
+        "text": "💬 Developed an NLP-powered chatbot to improve customer interactions, incorporating LangChain for context-aware conversations. #ChatbotDevelopment #NLP #LangChain #PythonDevelopment",
+        "engagement": 250,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Chatbot Development",
+            "Natural Language Processing (NLP)",
+            "LangChain",
+            "Python Development"
+        ]
+    },
+    {
+        "text": "🛡️ Deployed a secure, scalable real-time chat application using Django Channels and WebSockets, optimized for high user engagement. #WebDevelopment #DjangoChannels #RealTimeWebApps #Security",
+        "engagement": 210,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Web Development",
+            "Django Channels",
+            "Real-Time Web Apps",
+            "Security"
+        ]
+    },
+    {
+        "text": "🌐 Offered Python consulting to a startup looking to integrate an IoT dashboard solution, using Flask and MQTT protocols. #PythonConsulting #IoTIntegration #Flask #WebDevelopment",
+        "engagement": 205,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Python Consulting",
+            "IoT Integration",
+            "Flask",
+            "Web Development"
+        ]
+    },
+    {
+        "text": "🌱 Led an agile team in developing a SaaS platform that automates client data reporting with RESTful APIs and ReactJS for the frontend. #AgileDevelopment #SaaSDevelopment #APIDevelopment #ReactJS",
+        "engagement": 215,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Agile Development",
+            "SaaS Development",
+            "API Development",
+            "ReactJS"
+        ]
+    },
+    {
+        "text": "📊 Implemented a machine learning model for product recommendations in an e-commerce web app, powered by Python and TensorFlow. #MachineLearning #E-commerce #PythonDevelopment #TensorFlow",
+        "engagement": 230,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Machine Learning",
+            "E-commerce Development",
+            "Python Development",
+            "TensorFlow"
+        ]
+    },
+    {
+        "text": "🔔 Enhanced a real-time alert system using Django Channels and Redis, optimizing for performance and reliability. #DjangoChannels #Redis #RealTimeWebApps #PerformanceTuning",
+        "engagement": 190,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Django Channels",
+            "Redis",
+            "Real-Time Web Apps",
+            "Performance Tuning"
+        ]
+    },
+    {
+        "text": "🌟 Created an AI-powered dashboard using Python and ReactJS that pulls data from cloud storage to offer insights with real-time updates. #AI #PythonDevelopment #ReactJS #CloudServices",
+        "engagement": 210,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "AI Development",
+            "Python Development",
+            "ReactJS",
+            "Cloud Services"
+        ]
+    },
+    {
+        "text": "🛠 Built a REST API for a fintech application using Django, designed for high scalability and reliability. #DjangoDevelopment #RESTfulServices #Fintech #SoftwareEngineering",
+        "engagement": 205,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Django Development",
+            "RESTful Services",
+            "Fintech",
+            "Software Engineering"
+        ]
+    },
+    {
+        "text": "🔎 Conducted a code audit for a large Django application, focusing on optimization and security improvements. #CodeOptimization #DjangoDevelopment #Security #SoftwareEngineering",
+        "engagement": 190,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Code Optimization",
+            "Django Development",
+            "Security",
+            "Software Engineering"
+        ]
+    },
+    {
+        "text": "⚙️ Integrated AWS Lambda with Django to create a serverless event processing system, reducing costs and improving scalability. #AWS #ServerlessArchitectures #DjangoDevelopment #EventProcessing",
+        "engagement": 215,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "AWS Solutions",
+            "Serverless Architectures",
+            "Django Development",
+            "Event Processing"
+        ]
+    },
+    {
+        "text": "📡 Offered consulting for integrating blockchain technology into a supply chain management system for real-time tracking. #BlockchainDevelopment #Consulting #SupplyChain #PythonDevelopment",
+        "engagement": 220,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Blockchain Development",
+            "Consulting",
+            "Supply Chain",
+            "Python Development"
+        ]
+    },
+    {
+        "text": "🎯 Developed a high-performing microservice using FastAPI for user authentication, utilizing JWT and OAuth2. #FastAPI #MicroservicesArchitecture #Authentication #PythonDevelopment",
+        "engagement": 210,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "FastAPI",
+            "Microservices Architecture",
+            "Authentication",
+            "Python Development"
+        ]
+    },
+    {
+        "text": "💡 Created a Python-based tool for generating SEO reports by scraping web data and analyzing keyword performance. #WebScraping #PythonDevelopment #SEO #DataAnalysis",
+        "engagement": 185,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Web Scraping",
+            "Python Development",
+            "SEO",
+            "Data Analysis"
+        ]
+    },
+    {
+        "text": "🚧 Refined the build process for a Django project with Docker Compose, improving local development efficiency. #Docker #DjangoDevelopment #DevelopmentWorkflow #DevOps",
+        "engagement": 195,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Docker",
+            "Django Development",
+            "Development Workflow",
+            "DevOps"
+        ]
+    },
+    {
+        "text": "🔗 Built an API integration to connect a SaaS product with third-party tools, enhancing workflow automation for users. #APIDevelopment #SaaSDevelopment #PythonDevelopment #WebDevelopment",
+        "engagement": 210,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "API Development",
+            "SaaS Development",
+            "Python Development",
+            "Web Development"
+        ]
+    },
+    {
+        "text": "📚 Launched an educational platform using Django REST Framework and ReactJS to provide interactive coding tutorials. #DjangoRESTFramework #ReactJS #WebDevelopment #EducationalTech",
+        "engagement": 200,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Django REST Framework",
+            "ReactJS",
+            "Web Development",
+            "Educational Tech"
+        ]
+    },
+    {
+        "text": "🛠 Developed a backend API for a real estate platform using Django, integrated with Google Maps for property location search. #RealEstate #DjangoDevelopment #APIIntegration #PythonDevelopment",
+        "engagement": 215,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Real Estate",
+            "Django Development",
+            "API Integration",
+            "Python Development"
+        ]
+    },
+    {
+        "text": "🌐 Implemented a Docker-based microservice architecture for an e-commerce platform, optimizing resource usage and scalability. #Docker #MicroservicesArchitecture #E-commerce #DevOps",
+        "engagement": 220,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Docker",
+            "Microservices Architecture",
+            "E-commerce Development",
+            "DevOps"
+        ]
+    },
+    {
+        "text": "🔧 Created a Python package for NLP text preprocessing to help automate data cleaning tasks for ML pipelines. #PythonDevelopment #NLP #DataScience #MachineLearning",
+        "engagement": 205,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Python Development",
+            "NLP",
+            "Data Science",
+            "Machine Learning"
+        ]
+    },
+    {
+        "text": "🛡️ Designed and deployed a secure, scalable cloud-native solution using AWS and Kubernetes for data analytics. #AWS #Kubernetes #CloudServices #DataAnalytics",
+        "engagement": 230,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "AWS Solutions",
+            "Kubernetes",
+            "Cloud Services",
+            "Data Analytics"
+        ]
+    },
+    {
+        "text": "💻 Integrated a real-time notification system into a Django application using Django Channels and WebSockets. #DjangoChannels #WebSockets #RealTimeWebApps #PythonDevelopment",
+        "engagement": 190,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Django Channels",
+            "WebSockets",
+            "Real-Time Web Apps",
+            "Python Development"
+        ]
+    },
+    {
+        "text": "⚙️ Built a serverless REST API using FastAPI on AWS Lambda to handle high concurrent traffic efficiently. #FastAPI #ServerlessArchitectures #AWS #APIDevelopment",
+        "engagement": 240,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "FastAPI",
+            "Serverless Architectures",
+            "AWS Solutions",
+            "API Development"
+        ]
+    },
+    {
+        "text": "🌟 Created a data visualization tool in Python using Dash and Plotly for interactive analysis. #DataScience #PythonDevelopment #Dash #DataVisualization",
+        "engagement": 225,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Data Science",
+            "Python Development",
+            "Dash",
+            "Data Visualization"
+        ]
+    },
+    {
+        "text": "🎯 Enhanced a Django project with Celery for task queue management, allowing real-time updates and background processing. #DjangoDevelopment #Celery #TaskQueue #PythonDevelopment",
+        "engagement": 200,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Django Development",
+            "Celery",
+            "Task Queue",
+            "Python Development"
+        ]
+    },
+    {
+        "text": "⚡ Optimized database queries in Django ORM to reduce load times by 40%, enhancing application performance. #DjangoDevelopment #DatabaseManagement #PerformanceTuning #PythonDevelopment",
+        "engagement": 180,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Django Development",
+            "Database Management",
+            "Performance Tuning",
+            "Python Development"
+        ]
+    },
+    {
+        "text": "💬 Launched a generative AI chatbot for a customer service platform using OpenAI's API and LangChain. #ChatbotDevelopment #GenerativeAI #OpenAI #LangChain",
+        "engagement": 250,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Chatbot Development",
+            "Generative AI",
+            "OpenAI",
+            "LangChain"
+        ]
+    },
+    {
+        "text": "🧠 Implemented a computer vision solution using OpenCV and Python for automated image processing in a security system. #ComputerVision #PythonDevelopment #OpenCV #AI",
+        "engagement": 205,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Computer Vision",
+            "Python Development",
+            "OpenCV",
+            "AI Development"
+        ]
+    },
+    {
+        "text": "🚀 Developed a performance-tuned SaaS application that handles document processing and analysis using NLP and Python. #SaaSDevelopment #NLP #PythonDevelopment #DocumentAnalysis",
+        "engagement": 210,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "SaaS Development",
+            "NLP",
+            "Python Development",
+            "Document Analysis"
+        ]
+    },
+    {
+        "text": "🌟 Created an e-commerce mobile app using React Native and integrated a Django backend for user and payment management. #E-commerce #ReactNative #DjangoDevelopment #MobileApp",
+        "engagement": 195,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "E-commerce Development",
+            "React Native",
+            "Django Development",
+            "Mobile App"
+        ]
+    },
+    {
+        "text": "🛠 Enhanced a fintech platform with secure REST API development using Django REST Framework and JWT for user authentication. #Fintech #DjangoRESTFramework #APIDevelopment #Security",
+        "engagement": 220,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Fintech",
+            "Django REST Framework",
+            "API Development",
+            "Security"
+        ]
+    },
+    {
+        "text": "🎓 Offered Python consulting services to help educational tech startups implement customized data science projects for learning analytics. #PythonConsulting #DataScience #EducationTech #MachineLearning",
+        "engagement": 235,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "Python Consulting",
+            "Data Science",
+            "Education Tech",
+            "Machine Learning"
+        ]
+    },
+    {
+        "text": "🌐 Built an AI-powered recommendation engine for an e-learning platform using TensorFlow and Python. #AI #PythonDevelopment #TensorFlow #RecommendationEngine",
+        "engagement": 240,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "AI Development",
+            "Python Development",
+            "TensorFlow",
+            "Recommendation Engine"
+        ]
+    },
+    {
+        "text": "⚙️ Designed and implemented a CI/CD pipeline using Jenkins and Docker for rapid deployment of microservices. #CI/CD #Jenkins #Docker #Microservices",
+        "engagement": 215,
+        "line_count": 3,
+        "language": "English",
+        "tags": [
+            "CI/CD Pipelines",
+            "Jenkins",
+            "Docker",
+            "Microservices Architecture"
+        ]
+    }
+]
